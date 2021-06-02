@@ -170,6 +170,7 @@ REPLACE INTO `modx_manager_log` VALUES (158,1,'2021-05-31 17:03:35','template_up
 REPLACE INTO `modx_manager_log` VALUES (159,1,'2021-05-31 17:03:35','propertyset_update_from_element','modPropertySet','modTemplate 24 Default');
 REPLACE INTO `modx_manager_log` VALUES (160,1,'2021-05-31 17:03:41','template_update','modTemplate','25');
 REPLACE INTO `modx_manager_log` VALUES (161,1,'2021-05-31 17:03:41','propertyset_update_from_element','modPropertySet','modTemplate 25 Default');
+REPLACE INTO `modx_manager_log` VALUES (162,1,'2021-06-02 14:33:29','login','modContext','mgr');
 /*!40000 ALTER TABLE `modx_manager_log` ENABLE KEYS */;
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;

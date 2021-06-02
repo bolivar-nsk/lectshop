@@ -9,7 +9,7 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 /*!40000 ALTER TABLE `modx_user_attributes` DISABLE KEYS */;
-REPLACE INTO `modx_user_attributes` VALUES (1,1,'Щукин Дмитрий Викторович','bolivar.nsk@gmail.com','+79618746003','+79618746003',0,0,0,59,1622020458,1622098669,0,'g0mvq1nrulrocbthrrl039mla2uan5ii',15454800,1,'11-я (м-н Близкий)','RU','Новосибирск, Каменский с-с, м-н Близкий','НСО','630530','','','','','{\"adminToolsStates\":{\"template\":false,\"chunk\":false,\"tv\":false,\"plugin\":false,\"snippet\":false},\"adminToolsElements\":{\"templates\":[],\"tvs\":[],\"chunks\":[],\"plugins\":[],\"snippets\":[]},\"systemSettings\":{\"namespace\":\"core\",\"area\":\"furls\"}}');
+REPLACE INTO `modx_user_attributes` VALUES (1,1,'Щукин Дмитрий Викторович','bolivar.nsk@gmail.com','+79618746003','+79618746003',0,0,0,60,1622098669,1622619209,0,'qufgkv0v492utmm6tfd091cse3pmmoap',15454800,1,'11-я (м-н Близкий)','RU','Новосибирск, Каменский с-с, м-н Близкий','НСО','630530','','','','','{\"adminToolsStates\":{\"template\":false,\"chunk\":false,\"tv\":false,\"plugin\":false,\"snippet\":false},\"adminToolsElements\":{\"templates\":[],\"tvs\":[],\"chunks\":[],\"plugins\":[],\"snippets\":[]},\"systemSettings\":{\"namespace\":\"pdotools\",\"area\":\"\"}}');
 REPLACE INTO `modx_user_attributes` VALUES (2,2,'Редактор сайта','insertyourmail@please.com','','',0,0,0,1,0,1464250544,0,'82dae11f165c70ab18fcecc2137895d7',0,0,'','','','','','','','','','[]');
 REPLACE INTO `modx_user_attributes` VALUES (3,3,'Разработчик','insertyourmail@please.com','','',0,0,0,0,0,0,0,'',0,0,'','','','','','','','','','[]');
 /*!40000 ALTER TABLE `modx_user_attributes` ENABLE KEYS */;
