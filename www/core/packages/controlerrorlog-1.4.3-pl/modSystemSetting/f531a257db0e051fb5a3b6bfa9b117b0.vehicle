@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'controlerrorlog',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f47e7c27377265a3101a9bedd46614ac',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'f531a257db0e051fb5a3b6bfa9b117b0',
+  'native_key' => 'controlerrorlog.tpl',
+  'object' => '{"key":"controlerrorlog.tpl","value":"error_table.tpl","xtype":"textfield","namespace":"controlerrorlog","area":"controlerrorlog.main","editedon":null}',
+);

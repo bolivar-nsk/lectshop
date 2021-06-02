@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'controlerrorlog',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e211739b8083727ae2377f7cd36c08dc',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'cd603944091b3574cd66eab3e9efa8f1',
+  'native_key' => 'controlerrorlog.css_file',
+  'object' => '{"key":"controlerrorlog.css_file","value":"\\/assets\\/components\\/controlerrorlog\\/css\\/web\\/default.css","xtype":"textfield","namespace":"controlerrorlog","area":"controlerrorlog.main","editedon":null}',
+);

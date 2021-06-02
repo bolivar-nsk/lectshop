@@ -1,0 +1,17 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'related_objects' => false,
+  'namespace' => 'extraext',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '6b761a0a3afa843d7a0bda90849cb7cd',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '2d8468554cbc8feab1c9f24136b676ee',
+  'native_key' => 'extraext_highlight_style',
+  'object' => '{"key":"extraext_highlight_style","value":"solarized-light","xtype":"textfield","namespace":"extraext","area":"highlightStyle","editedon":null}',
+);

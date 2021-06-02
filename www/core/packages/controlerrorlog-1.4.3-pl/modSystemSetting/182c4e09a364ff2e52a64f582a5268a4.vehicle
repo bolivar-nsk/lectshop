@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'controlerrorlog',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'faeb9dc0d6d63b77a5cac142e1d00ddd',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '182c4e09a364ff2e52a64f582a5268a4',
+  'native_key' => 'controlerrorlog.date_format',
+  'object' => '{"key":"controlerrorlog.date_format","value":"%Y-%m-%d","xtype":"textfield","namespace":"controlerrorlog","area":"controlerrorlog.main","editedon":null}',
+);

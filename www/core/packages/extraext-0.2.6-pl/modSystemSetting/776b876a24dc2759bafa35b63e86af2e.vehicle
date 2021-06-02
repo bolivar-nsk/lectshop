@@ -1,0 +1,17 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'related_objects' => false,
+  'namespace' => 'extraext',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '07486c07373f8fb7e970633c884ba97a',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '776b876a24dc2759bafa35b63e86af2e',
+  'native_key' => 'extraExtDevMode',
+  'object' => '{"key":"extraExtDevMode","value":"0","xtype":"combo-boolean","namespace":"extraext","area":"","editedon":null}',
+);

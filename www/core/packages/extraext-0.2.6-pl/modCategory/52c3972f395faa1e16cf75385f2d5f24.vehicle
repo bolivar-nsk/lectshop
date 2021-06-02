@@ -1,0 +1,116 @@
+<?php return array (
+  'unique_key' => 'category',
+  'preserve_keys' => false,
+  'update_object' => true,
+  'related_objects' => 
+  array (
+    'Plugins' => 
+    array (
+      'dfe4d7ad473caf3d21035e1a478ce755' => 
+      array (
+        'unique_key' => 'name',
+        'preserve_keys' => false,
+        'update_object' => true,
+        'related_objects' => 
+        array (
+          'PluginEvents' => 
+          array (
+            '8343eb18ef660283d947e9aa0d3d6f41' => 
+            array (
+              'preserve_keys' => true,
+              'update_object' => true,
+              'unique_key' => 
+              array (
+                0 => 'pluginid',
+                1 => 'event',
+              ),
+              'class' => 'modPluginEvent',
+              'object' => '{"pluginid":16,"event":"OnManagerPageBeforeRender","priority":0,"propertyset":0}',
+              'guid' => 'eb30e48012f067f253faa63ae9e8dd4e',
+              'native_key' => 
+              array (
+                0 => 16,
+                1 => 'OnManagerPageBeforeRender',
+              ),
+              'signature' => 'f3c70ed73054039eced9b93277aef140',
+            ),
+          ),
+        ),
+        'related_object_attributes' => 
+        array (
+          'PluginEvents' => 
+          array (
+            'preserve_keys' => true,
+            'update_object' => true,
+            'unique_key' => 
+            array (
+              0 => 'pluginid',
+              1 => 'event',
+            ),
+          ),
+        ),
+        'class' => 'modPlugin',
+        'object' => '{"id":null,"source":1,"property_preprocess":0,"name":"extraExt","description":"","editor_type":0,"category":0,"cache_type":0,"plugincode":"include(MODX_CORE_PATH.\'components\\/extraext\\/elements\\/plugins\\/_extraext.php\');","locked":0,"properties":"a:0:{}","disabled":0,"moduleguid":"","static":0,"static_file":"core\\/components\\/extraext\\/elements\\/plugins\\/extraExt.php","content":"include(MODX_CORE_PATH.\'components\\/extraext\\/elements\\/plugins\\/_extraext.php\');"}',
+        'guid' => '466a0c078685445b8217abe617c0d11f',
+        'native_key' => NULL,
+        'signature' => '0daa776e8e8d315ccfd8e230a9251c60',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Plugins' => 
+    array (
+      'unique_key' => 'name',
+      'preserve_keys' => false,
+      'update_object' => true,
+      'related_objects' => true,
+      'related_object_attributes' => 
+      array (
+        'PluginEvents' => 
+        array (
+          'preserve_keys' => true,
+          'update_object' => true,
+          'unique_key' => 
+          array (
+            0 => 'pluginid',
+            1 => 'event',
+          ),
+        ),
+      ),
+    ),
+  ),
+  'namespace' => 'extraext',
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"extraext-0.2.6-pl\\/modCategory\\/52c3972f395faa1e16cf75385f2d5f24\\/0\\/","target":"return MODX_ASSETS_PATH . \'components\\/\';","name":"extraext"}',
+    ),
+    1 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"extraext-0.2.6-pl\\/modCategory\\/52c3972f395faa1e16cf75385f2d5f24\\/1\\/","target":"return MODX_CORE_PATH . \'components\\/\';","name":"extraext"}',
+    ),
+    2 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"extraext-0.2.6-pl\\/modCategory\\/52c3972f395faa1e16cf75385f2d5f24.extraext_resolver_PoBiov.resolver","type":"php","name":"extraext_resolver_PoBiov"}',
+    ),
+    3 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"extraext-0.2.6-pl\\/modCategory\\/52c3972f395faa1e16cf75385f2d5f24.aaaextraext_resolver_LTOVUK.resolver","type":"php","name":"aaaextraext_resolver_LTOVUK"}',
+    ),
+  ),
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5c63d47a9fcf5ee8edc90854830bc32e',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => '52c3972f395faa1e16cf75385f2d5f24',
+  'native_key' => NULL,
+  'object' => '{"id":null,"parent":0,"category":"ExtraExt","rank":0}',
+);

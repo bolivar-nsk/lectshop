@@ -1,0 +1,17 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'related_objects' => false,
+  'namespace' => 'extraext',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '075315773b77eae1ac117b32765b7c1d',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '296d65dcf093f5686c0a123dab94fd27',
+  'native_key' => 'extraext_copyright',
+  'object' => '{"key":"extraext_copyright","value":"1","xtype":"combo-boolean","namespace":"extraext","area":"copyright","editedon":null}',
+);
