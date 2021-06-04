@@ -4,13 +4,14 @@
 {set $page = 'site_url' | config ~ $_modx->resource.uri}
 <html lang="{$modx->config.cultureKey}" dir="{$modx->config.manager_direction}">
 {include 'head'}
-<body>
-<div class="site">
+    <body>
+        <!-- site -->
+        <div class="site">
     {block 'header-mobile'}
-        {include 'file:chunks/_header-mobile.tpl'}
+        {include 'header-mobile'}
     {/block}
     {block 'header'}
-        {include 'file:chunks/_header.tpl'}
+        {include 'header'}
     {/block}
     <div class="site__body">
         {block 'breadcrumb'}
