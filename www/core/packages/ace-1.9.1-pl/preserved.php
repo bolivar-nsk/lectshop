@@ -445,4 +445,180 @@ if ($script) {
       'propertyset' => 0,
     ),
   ),
+  'dd76a18ffe2c326bdf48a7a4dcf8aea8' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'ace.theme',
+    ),
+    'object' => 
+    array (
+      'key' => 'ace.theme',
+      'value' => 'chrome',
+      'xtype' => 'textfield',
+      'namespace' => 'ace',
+      'area' => 'general',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  'c8389ad03c1fd808de3041c81f3f2595' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'ace.font_size',
+    ),
+    'object' => 
+    array (
+      'key' => 'ace.font_size',
+      'value' => '13px',
+      'xtype' => 'textfield',
+      'namespace' => 'ace',
+      'area' => 'general',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  '73fae3182a89d5dd10097b0f55c28261' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'ace.word_wrap',
+    ),
+    'object' => 
+    array (
+      'key' => 'ace.word_wrap',
+      'value' => '1',
+      'xtype' => 'combo-boolean',
+      'namespace' => 'ace',
+      'area' => 'general',
+      'editedon' => '2021-05-26 16:29:30',
+    ),
+  ),
+  '189c099c32ce09dd917e79ed993d8711' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'ace.soft_tabs',
+    ),
+    'object' => 
+    array (
+      'key' => 'ace.soft_tabs',
+      'value' => '1',
+      'xtype' => 'combo-boolean',
+      'namespace' => 'ace',
+      'area' => 'general',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  '61f6db265a14eebe7d8bdfc1c658ced7' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'ace.tab_size',
+    ),
+    'object' => 
+    array (
+      'key' => 'ace.tab_size',
+      'value' => '4',
+      'xtype' => 'textfield',
+      'namespace' => 'ace',
+      'area' => 'general',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  '34135d927185fdb11c69ba275c4944fe' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'ace.fold_widgets',
+    ),
+    'object' => 
+    array (
+      'key' => 'ace.fold_widgets',
+      'value' => '1',
+      'xtype' => 'combo-boolean',
+      'namespace' => 'ace',
+      'area' => 'general',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  'a5c3133a51120e96edc8601ff14b8fec' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'ace.show_invisibles',
+    ),
+    'object' => 
+    array (
+      'key' => 'ace.show_invisibles',
+      'value' => '0',
+      'xtype' => 'combo-boolean',
+      'namespace' => 'ace',
+      'area' => 'general',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  '9f311900aabcd7ed02a45b7cb5a803dc' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'ace.snippets',
+    ),
+    'object' => 
+    array (
+      'key' => 'ace.snippets',
+      'value' => '',
+      'xtype' => 'textarea',
+      'namespace' => 'ace',
+      'area' => 'general',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  '6f90a9e753657e4991b13997929705c0' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'ace.height',
+    ),
+    'object' => 
+    array (
+      'key' => 'ace.height',
+      'value' => '',
+      'xtype' => 'textfield',
+      'namespace' => 'ace',
+      'area' => 'general',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  'bbd26ab97b32cfd529a8869188a2a03f' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'ace.grow',
+    ),
+    'object' => 
+    array (
+      'key' => 'ace.grow',
+      'value' => '',
+      'xtype' => 'textfield',
+      'namespace' => 'ace',
+      'area' => 'general',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  '506cabd808499c1797c6b1bb136f5f9d' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'ace.html_elements_mime',
+    ),
+    'object' => 
+    array (
+      'key' => 'ace.html_elements_mime',
+      'value' => '',
+      'xtype' => 'textfield',
+      'namespace' => 'ace',
+      'area' => 'general',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
 );

@@ -1,4 +1,4 @@
-{include 'head'}
+{extends 'template:base'}
     <body>
         <!-- site -->
         <div class="site">

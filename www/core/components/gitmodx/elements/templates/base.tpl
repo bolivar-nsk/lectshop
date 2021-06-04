@@ -18,7 +18,7 @@
             {if $_modx->resource.template == 2 or $_modx->resource.template == 12}
 
             {else}
-                {include 'file:chunks/_breadcrumb.tpl'}
+                {include 'breadcrumb'}
             {/if}
         {/block}
         {block 'slideshow'}
@@ -85,17 +85,17 @@
 
     {/if}
     {block 'footer'}
-        {include 'file:chunks/_footer.tpl'}
+        {include 'footer'}
     {/block}
 </div>
 {block 'modals'}
-    {include 'file:chunks/content/blockmodal.tpl'}
+    {include 'blockmodal'}
 {/block}
 {block 'menu-mobile'}
-    {include 'file:chunks/menu/mobilemenu/mobilemenu.tpl'}
+    {include 'mobilemenu'}
 {/block}
 {block 'photoswipe'}
-    {include 'file:chunks/_photoswipe.tpl'}
+    {include 'photoswipe'}
 {/block}
 {block 'scripts'}
     {include 'scripts'}

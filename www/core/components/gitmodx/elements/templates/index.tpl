@@ -1,8 +1,8 @@
-{extends 'file:templates/base.tpl'}
+{extends 'template:base'}
 
 {block 'content'}
     <h3>{$_modx->resource.pagetitle}</h3>
     <div class="jumbotron">
-        {parent}
+        {$_modx->resource.content}
     </div>
 {/block}

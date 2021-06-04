@@ -12,6 +12,390 @@
       'assets_path' => '',
     ),
   ),
+  'f627b159e95a5941ed74984c527d7763' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_favorites_icon',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_favorites_icon',
+      'value' => '',
+      'xtype' => 'textfield',
+      'namespace' => 'admintools',
+      'area' => 'admintools_main',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  'da5aa2520efe0ef47aef3984fc1514a6' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_check_elements_permissions',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_check_elements_permissions',
+      'value' => '1',
+      'xtype' => 'combo-boolean',
+      'namespace' => 'admintools',
+      'area' => 'admintools_permissions',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  'd3fadff1a79e73948098b2146a0ee9c4' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_remember_system_settings',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_remember_system_settings',
+      'value' => '1',
+      'xtype' => 'combo-boolean',
+      'namespace' => 'admintools',
+      'area' => 'admintools_main',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  'ae10c1f901756f8eaeacee891de5b300' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_enable_elements_log',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_enable_elements_log',
+      'value' => '1',
+      'xtype' => 'combo-boolean',
+      'namespace' => 'admintools',
+      'area' => 'admintools_main',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  'bc9ce23beece06aaec8ed730c9e7e271' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_enable_favorite_elements',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_enable_favorite_elements',
+      'value' => '1',
+      'xtype' => 'combo-boolean',
+      'namespace' => 'admintools',
+      'area' => 'admintools_main',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  'a08668ed4d45c35a4fb9496e8ccd552f' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_clear_only_resource_cache',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_clear_only_resource_cache',
+      'value' => '',
+      'xtype' => 'combo-boolean',
+      'namespace' => 'admintools',
+      'area' => 'admintools_main',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  'cc55d8e60d5835a986d5f685fa977c12' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_hide_component_description',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_hide_component_description',
+      'value' => '',
+      'xtype' => 'combo-boolean',
+      'namespace' => 'admintools',
+      'area' => 'admintools_main',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  'df46399e80eb00e73214d58bc1daa0b4' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_email_authorization',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_email_authorization',
+      'value' => '',
+      'xtype' => 'combo-boolean',
+      'namespace' => 'admintools',
+      'area' => 'admintools_authorization',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  'c0b1fc94fe82de0fabdca49e5ed1ce98' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_authorization_ttl',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_authorization_ttl',
+      'value' => '600',
+      'xtype' => 'numberfield',
+      'namespace' => 'admintools',
+      'area' => 'admintools_authorization',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  'c18b5f088cd734e35c2bae6c9f831c9d' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_loginform_resource',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_loginform_resource',
+      'value' => '',
+      'xtype' => 'numberfield',
+      'namespace' => 'admintools',
+      'area' => 'admintools_authorization',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  '8d93675aa5ed6b2d6daa587a0401528d' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_enable_notes',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_enable_notes',
+      'value' => '1',
+      'xtype' => 'combo-boolean',
+      'namespace' => 'admintools',
+      'area' => 'admintools_main',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  '56ed31c25cdec0f6b44e5477201d721c' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_template_resource_relationship',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_template_resource_relationship',
+      'value' => '1',
+      'xtype' => 'combo-boolean',
+      'namespace' => 'admintools',
+      'area' => 'admintools_main',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  '2f0f3f57ea8dea2b2f225dc8f62eaf1d' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_animate_menu',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_animate_menu',
+      'value' => '1',
+      'xtype' => 'combo-boolean',
+      'namespace' => 'admintools',
+      'area' => 'admintools_main',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  'a4c282ac715600c2a441a54692263602' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_alternative_permissions',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_alternative_permissions',
+      'value' => '1',
+      'xtype' => 'combo-boolean',
+      'namespace' => 'admintools',
+      'area' => 'admintools_permissions',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  '4bfff149371ef07a893e5ed993b19766' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_plugins_events',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_plugins_events',
+      'value' => '1',
+      'xtype' => 'combo-boolean',
+      'namespace' => 'admintools',
+      'area' => 'admintools_main',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  '737222385ded57e384c4f125da1e08b4' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_theme',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_theme',
+      'value' => 'dark',
+      'xtype' => 'textfield',
+      'namespace' => 'admintools',
+      'area' => 'admintools_main',
+      'editedon' => '2021-05-26 16:29:30',
+    ),
+  ),
+  'c0c28e08acff277d14914fb0f9794771' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_modx_tree_position',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_modx_tree_position',
+      'value' => 'left',
+      'xtype' => 'textfield',
+      'namespace' => 'admintools',
+      'area' => 'admintools_main',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  'ea434f2790900a59fbce71c17f1a18e4' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_custom_css',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_custom_css',
+      'value' => '',
+      'xtype' => 'textfield',
+      'namespace' => 'admintools',
+      'area' => 'admintools_main',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  '691fd11ea1ba6214b2b2f29dfa51a1e7' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_custom_js',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_custom_js',
+      'value' => '',
+      'xtype' => 'textfield',
+      'namespace' => 'admintools',
+      'area' => 'admintools_main',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  '0c84e245e26a35dd90673a6e30fd6d57' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_package_actions',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_package_actions',
+      'value' => '',
+      'xtype' => 'textfield',
+      'namespace' => 'admintools',
+      'area' => 'admintools_main',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  'e501b9fcdc7da976ac4295761ae8d1a3' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_only_current_context_user',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_only_current_context_user',
+      'value' => '',
+      'xtype' => 'combo-boolean',
+      'namespace' => 'admintools',
+      'area' => 'admintools_main',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  '4e9a2429c52443ab3034fbedf3548b35' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_show_lockmenu',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_show_lockmenu',
+      'value' => '1',
+      'xtype' => 'combo-boolean',
+      'namespace' => 'admintools',
+      'area' => 'admintools_security',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  '4310d4b5d29075f940fdde259416a6d9' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_lock_timeout',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_lock_timeout',
+      'value' => '0',
+      'xtype' => 'numberfield',
+      'namespace' => 'admintools',
+      'area' => 'admintools_security',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
+  'd2ebb79400aa195e3611a17658ea3a64' => 
+  array (
+    'criteria' => 
+    array (
+      'key' => 'admintools_unlock_code',
+    ),
+    'object' => 
+    array (
+      'key' => 'admintools_unlock_code',
+      'value' => '',
+      'xtype' => 'textfield',
+      'namespace' => 'admintools',
+      'area' => 'admintools_security',
+      'editedon' => '0000-00-00 00:00:00',
+    ),
+  ),
   'edfac354c66edfc8e83f3029966cd36c' => 
   array (
     'criteria' => 
